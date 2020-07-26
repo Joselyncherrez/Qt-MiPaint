@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Nuevo">Recursos/blanco.png</file>
+        <file alias="Tamaño">Recursos/escritor.png</file>
+        <file alias="Guardar">Recursos/guardar-el-archivo.png</file>
+        <file alias="Lineas">Recursos/menu.png</file>
+        <file alias="Libre">Recursos/pino.png</file>
+        <file alias="Principal">Recursos/pintar.png</file>
+        <file alias="Circulos">Recursos/redondo.png</file>
+        <file alias="Salir">Recursos/salida.png</file>
+        <file alias="Rectangulo">Recursos/tablero.png</file>
+        <file alias="Colores">Recursos/ui.png</file>
+    </qresource>
+</RCC>
